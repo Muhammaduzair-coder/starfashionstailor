@@ -1,0 +1,45 @@
+body{text-decoration: none;}
+
+
+.serv{width: 100%; height: 100px;}
+
+
+
+
+.tup{
+
+    display: inline-block;
+     font-size: 3rem; font-family: sans-serif; font-weight: bold; color: rgb(206, 75, 75); position: absolute; top: 50%; right: 50%; left: 42%;}
+    .fff{ border: 7px dotted greenyellow;}
+
+
+    .card-img-top:hover{position: absolute; top: 10%; bottom: 50%; }
+    .svv{color: indigo; font-size:3rem; justify-content: center; position: absolute; left: 50%; right: 50%;}
+
+
+.move{position: absolute; top: 50%;}
+
+.m44{ font-size: 2.8rem;  border-bottom: 5px double rgb(4, 245, 112);}
+
+.fa-search-location, .fa-mail-bulk, .fa-phone-alt{ font-size: 2rem; color: lightblue;}
+
+.clr{color: rgb(82, 82, 82);}
+.ffg{margin-left: 9%;}
+
+.bgx{background-color: rgb(180, 234, 255);}
+.bvv{background-color: black; color: rgb(255, 255, 255);}
+
+.gig{ margin: 0; box-shadow:2px 3px 4px rgb(170, 170, 170);  font-size: 2.7rem; color: rgb(123, 14, 173);}
+
+
+.picss{margin-bottom: 4%;}
+
+.asa{display: flex;
+
+justify-content: center;}
+.pagi{ color: rgb(92, 92, 92);  }
+
+.int{ margin: 4%; font-size: 2rem;  }
+
+.fa-history, .fa-spinner, .fa-id-badge{font-size: 2.5rem; color: lightskyblue;  margin-bottom: 10px;}
+

@@ -1,0 +1,14 @@
+"use strict;"
+BF.container = "SKN214";
+BF.inactive = {};
+BF.inactive.labels = [];
+BF.inactive.scores = [];
+BF.inactive.events = [];
+BF.inactive.modals = [];
+BF.modalhtml = [];
+BF.createModals();
+BF.inactive.goals = [];
+BF.macro = [];
+BF.dynamicContentsHTML = {};
+BF.track();
+BF.createTriggers([]);

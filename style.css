@@ -1,0 +1,91 @@
+*{position: relative;scroll-behavior: smooth; }
+
+body{margin: 0;padding: 0;   }
+
+
+
+
+
+
+
+@font-face { font-family: myfont;
+    src: url(fonts\Concert_One,PT_Serif,Poppins,Rakkas,Source_Sans_Pro\PT_Serif\PTSerif-Regular.ttf);}
+
+    @font-face { font-family: myfont1;
+        src: url(fonts\Concert_One,PT_Serif,Poppins,Rakkas,Source_Sans_Pro\Rakkas\Rakkas-Regular.ttf);}
+
+
+        @font-face { font-family: myfont2;
+            src: url(fonts\Concert_One,PT_Serif,Poppins,Rakkas,Source_Sans_Pro\Source_Sans_Pro\SourceSansPro-Regular.ttf);}
+
+.site-content {background-image: url(img/hunters-race-MYbhN8KaaEc-unsplash.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    left: 0;
+    } 
+    .ti1 {  font-size: 400%; color:rgb(235, 215, 37); margin-top: 20%;}
+    .ti2{font-size: 350%;  color:rgb(195, 77, 231); margin-bottom: 40%; }
+    .cdh{display: flex;}
+    .card-body{}
+.vss{ -moz-box-shadow: 0 0 10px #777777;
+    -webkit-box-shadow: 0 0 10px #777777;
+    box-shadow: 0 0 10px #777777;}
+
+    .nav-item h5{color: rgb(229, 23, 248)}
+
+    .nav-item h5:hover{border-bottom: 5px double yellow; }
+.maqs{text-shadow: 1px 4px 5px antiquewhite;  color: maroon; background-color: rgb(147, 229, 219); font-size: medium;}
+.card{ -moz-box-shadow: inset 0 0 10px #777777;
+    -webkit-box-shadow: inset 0 0 10px #777777;
+    box-shadow: inset 0 0 10px #777777;}    
+ .card-body .card-title{ font-size: 1.6rem; color: rgb(95, 95, 95);}
+
+
+ .para-1{ color: rgb(87, 87, 87);}
+
+  .secid{  background-image: url(img/call.jpg);
+background-attachment: fixed;
+
+background-size: cover;}
+.muto{margin-top: 10%;
+margin-bottom: 10%; color: rgb(230, 230, 230); text-shadow: 2px  2px 7px rgb(100, 20, 124); font-weight: bolder; font-size: 1.7rem; }
+
+.hov:hover{  height: 100%; width: 100%;
+    
+    -webkit-box-shadow: 0px 0px 11px 1px rgba(120,161,204,1);
+    -moz-box-shadow: 0px 0px 11px 1px rgba(120,161,204,1);
+    box-shadow: 0px 0px 11px 1px rgba(120,161,204,1); }
+
+    .bod{border-bottom:1px solid rgb(121, 121, 119);  border-top: 1px solid rgb(121, 121, 119);}
+
+    .hovs:hover{-webkit-box-shadow: 0px 0px 11px 1px rgba(120,161,204,1);
+        -moz-box-shadow: 0px 0px 11px 1px rgba(120,161,204,1);
+        box-shadow: 0px 0px 11px 1px rgba(120,161,204,1);
+
+
+
+        height: 60%;
+
+
+        width: 100%;
+
+    }
+
+    .color{ color: rgb(87, 87, 87);}
+    .fa:hover{color: rgb(47, 151, 151);}
+    .fa{  color: teal; }
+   #bg1{background-image: url(img/bg1.jpg);background-attachment: fixed; background-size: cover;  margin-top: 10%;}
+
+   .yell{color: yellow; font-weight: bold; font-size: 2.8rem;}
+   .pag{  font-family: myfont; margin-bottom: 20%; font-size: 1.5rem; font-weight: bolder; color: tomato;}
+
+
+   .siz{margin-top: 20%; color: yellow; font-size: 2.8rem;}
+   .bgx{background-color: rgb(180, 234, 255); text-decoration: none;}
+
+   .coss{color: rgb(92, 91, 91);}
+   .bvv{background-color: black; color: rgb(255, 255, 255);}
+
+   .fa-frown-open {font-size: 4rem; color: cadetblue; margin-top: 10%;}
+
+   .hading{}
